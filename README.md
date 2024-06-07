@@ -17,7 +17,6 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&show_icons=true">
 </picture>
 
--    :pencil2: C++ / C
 -    ✅ [Libft](https://github.com/MVPee/42-Libft)
 -    ✅ [ft_printf](https://github.com/MVPee/42-Ft_printf) / [get_next_line](https://github.com/MVPee/42-Get-next-line) / Born2beroot
 -    ✅ [push_swap](https://github.com/MVPee/42-Push-swap) / [pipex](https://github.com/MVPee/42-Pipex) / [so_long](https://github.com/MVPee/42-So_long)
@@ -25,5 +24,27 @@
 -    ✴️ netpractice / [cpp_00-04](https://github.com/MVPee/42-CPP) / [cub3d](https://github.com/MVPee/42-Cub3d)
 -    🔴 inception / cpp_05-09 / webserv
 -    🔴 ft_transcendence
-
+-    🔛 cub3d
 <hr>
+
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,github,git)](https://skillicons.dev)
+
+<summary><strong>Want to improve:</strong></summary>
+
+[![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
+
+<summary><strong>Want to learn:</strong></summary>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,blender)](https://skillicons.dev)
+
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css)](https://skillicons.dev)
+
+<summary><strong>Want to improve:</strong></summary>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
+
+<summary><strong>Want to learn:</strong></summary>
+
+[![My Skills](https://skillicons.dev/icons?i=net,typescript)](https://skillicons.dev)
