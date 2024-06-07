@@ -1,4 +1,14 @@
-My name is **M**arius **V**an **P**ee. I'm sutent at 19 school (42 network), Belgium.
+<div align="center">
+    My name is <b>M</b>arius <b>V</b>an <b>P</b>ee. I'm student at 19 school (42 network), Belgium.
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/starryblue/mvan-pee?1337Badge=off&UM6P=off" alt="mvan-pee's 42 stats">
+    </a>
+</div>
 
 <hr>
 
@@ -17,9 +27,3 @@ My name is **M**arius **V**an **P**ee. I'm sutent at 19 school (42 network), Bel
 -    🔴 ft_transcendence
 
 <hr>
-
-<div align="center">
-    <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/starryblue/mvan-pee?1337Badge=off&UM6P=off" alt="mvan-pee's 42 stats">
-    </a>
-</div>
