@@ -18,4 +18,8 @@ My name is **M**arius **V**an **P**ee. I'm sutent at 19 school (42 network), Bel
 
 <hr>
 
-[![mvan-pee's 42 stats](https://badge.mediaplus.ma/starryblue/mvan-pee?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<div align="center">
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/starryblue/mvan-pee?1337Badge=off&UM6P=off" alt="mvan-pee's 42 stats">
+    </a>
+</div>
