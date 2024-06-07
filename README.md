@@ -32,7 +32,7 @@
 
 <summary><strong>Want to learn:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,blender,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,blender,mongodb,mysql,docker)](https://skillicons.dev)
 
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python)](https://skillicons.dev)
