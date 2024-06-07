@@ -2,6 +2,11 @@ My name is **M**arius **V**an **P**ee. I'm sutent at 19 school (42 network), Bel
 
 <hr>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&show_icons=true">
+</picture>
+
 -    :pencil2: C++ / C
 -    ✅ [Libft](https://github.com/MVPee/42-Libft)
 -    ✅ [ft_printf](https://github.com/MVPee/42-Ft_printf) / [get_next_line](https://github.com/MVPee/42-Get-next-line) / Born2beroot
@@ -10,11 +15,6 @@ My name is **M**arius **V**an **P**ee. I'm sutent at 19 school (42 network), Bel
 -    ✴️ netpractice / [cpp_00-04](https://github.com/MVPee/42-CPP) / [cub3d](https://github.com/MVPee/42-Cub3d)
 -    🔴 inception / cpp_05-09 / webserv
 -    🔴 ft_transcendence
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&show_icons=true">
-</picture>
 
 <hr>
 
