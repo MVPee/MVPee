@@ -28,22 +28,14 @@
 <hr>
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,github,git)](https://skillicons.dev)
-
-<summary><strong>Want to improve:</strong></summary>
-
-[![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,github,git,unreal)](https://skillicons.dev)
 
 <summary><strong>Want to learn:</strong></summary>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,blender)](https://skillicons.dev)
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css)](https://skillicons.dev)
-
-<summary><strong>Want to improve:</strong></summary>
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python)](https://skillicons.dev)
 
 <summary><strong>Want to learn:</strong></summary>
 
