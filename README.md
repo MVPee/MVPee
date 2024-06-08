@@ -39,4 +39,4 @@
 
 <summary><strong>Want to learn:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=net,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net)](https://skillicons.dev)
