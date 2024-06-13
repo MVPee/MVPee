@@ -13,7 +13,7 @@
 <hr>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mvpee&theme=dark">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&show_icons=true">
 </picture>
 
