@@ -1,7 +1,9 @@
 <div align="center">
     My name is <b>M</b>arius <b>V</b>an <b>P</b>ee. I'm student at 19 school (42 network), Belgium.
 </div>
-
+<a href="https://campus19.be/" target="_blank" rel="noreferrer noopener">
+    <img src="https://cdn.dorik.com/60d9e60019777c001197de7e/629a22a6e91a890012ba18dc/images/19-blanc_yd72cr9s.png" alt="19" height="70">
+</a>
 <br>
 
 <div align="center">
@@ -22,7 +24,7 @@
 -    ✅ [push_swap](https://github.com/MVPee/42-Push-swap) / [pipex](https://github.com/MVPee/42-Pipex) / [so_long](https://github.com/MVPee/42-So_long)
 -    ✅ [Philosophers](https://github.com/MVPee/42-Philosophers) / [minishell](https://github.com/MVPee/42-minishell)
 -    ✴️ netpractice / [cpp_00-04](https://github.com/MVPee/42-CPP) / [cub3d](https://github.com/MVPee/42-Cub3d)
--    🔴 inception / cpp_05-09 / webserv
+-    🔴 inception / [cpp_05-09](https://github.com/MVPee/42-CPP) / webserv
 -    🔴 ft_transcendence
 -    🔛 cub3d
 <hr>
