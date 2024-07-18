@@ -1,5 +1,6 @@
 <div align="center">
-    My name is <b>M</b>arius <b>V</b>an <b>P</b>ee. I'm student at 19 school (42 network), Belgium.
+    My name is <b>M</b>arius <b>V</b>an <b>P</b>ee. I'm student at 19 school (42 network), Belgium.<br>
+    My main languages are C and C++.
 </div>
 <a href="https://campus19.be/" target="_blank" rel="noreferrer noopener">
     <img src="https://cdn.dorik.com/60d9e60019777c001197de7e/629a22a6e91a890012ba18dc/images/19-blanc_yd72cr9s.png" alt="19" height="70">
