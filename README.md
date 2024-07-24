@@ -24,10 +24,10 @@
 -    ✅ [ft_printf](https://github.com/MVPee/42-Ft_printf) / [get_next_line](https://github.com/MVPee/42-Get-next-line) / Born2beroot
 -    ✅ [push_swap](https://github.com/MVPee/42-Push-swap) / [pipex](https://github.com/MVPee/42-Pipex) / [so_long](https://github.com/MVPee/42-So_long)
 -    ✅ [Philosophers](https://github.com/MVPee/42-Philosophers) / [minishell](https://github.com/MVPee/42-minishell)
--    ✴️ netpractice / [cpp_00-04](https://github.com/MVPee/42-CPP) / [cub3d](https://github.com/MVPee/42-Cub3d)
--    🔴 inception / [cpp_05-09](https://github.com/MVPee/42-CPP) / webserv
+-    ✅ netpractice / [cpp_00-04](https://github.com/MVPee/42-CPP) / [cub3d](https://github.com/MVPee/42-Cub3d)
+-    ✴️ inception / [cpp_05-09](https://github.com/MVPee/42-CPP) / webserv
 -    🔴 ft_transcendence
--    🔛 cub3d
+-    🔛 cpp_05-09
 <hr>
 
 ### Tools:
