@@ -30,16 +30,8 @@
 -    🔛 cpp_05-09
 <hr>
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,github,git,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,vscode,linux,github,git)](https://skillicons.dev)
 
 <summary><strong>Want to learn:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,blender,mongodb,mysql,docker)](https://skillicons.dev)
-
-### Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python)](https://skillicons.dev)
-
-<summary><strong>Want to learn:</strong></summary>
-
-[![My Skills](https://skillicons.dev/icons?i=net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,aws,mongodb,mysql,docker)](https://skillicons.dev)
