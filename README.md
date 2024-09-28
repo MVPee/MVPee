@@ -30,8 +30,8 @@
 -    🔛 webserv
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,vscode,linux,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,vscode,linux,github,git,docker,mysql)](https://skillicons.dev)
 
 <summary><strong>Want to learn:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=net,aws,mongodb,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,aws)](https://skillicons.dev)
