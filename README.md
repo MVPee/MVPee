@@ -27,7 +27,7 @@
 -    ✅ netpractice / [cpp_00-04](https://github.com/MVPee/42-CPP) / [cub3d](https://github.com/MVPee/42-Cub3d)
 -    ✴️ [inception](https://github.com/MVPee/42-Inception) / [cpp_05-09](https://github.com/MVPee/42-CPP) / [webserv](https://github.com/MVPee/42-webserv)
 -    🔴 ft_transcendence
--    🔛 webserv | inception
+-    🔛 webserv
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,vscode,linux,github,git)](https://skillicons.dev)
