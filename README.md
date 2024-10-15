@@ -30,7 +30,7 @@
 -    🔛 [ft_transcendence](https://github.com/MVPee/42-transcendence)
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,vscode,linux,github,git,docker,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,django,vscode,linux,github,git,docker,mysql,postgres)](https://skillicons.dev)
 
 <summary><strong>Want to learn:</strong></summary>
 
