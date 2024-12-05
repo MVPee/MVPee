@@ -29,8 +29,8 @@
 -    🔛 [ft_transcendence](https://github.com/MVPee/42-transcendence)
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,python,django,vscode,linux,github,git,docker,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,python,django,react,vscode,linux,github,git,docker,mysql,postgres)](https://skillicons.dev)
 
 <summary><strong>Want to learn:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=net,aws,go,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,aws,go,typescript)](https://skillicons.dev)
