@@ -33,4 +33,4 @@
 
 <summary><strong>Want to learn:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=net,aws,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,go)](https://skillicons.dev)
