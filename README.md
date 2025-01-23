@@ -33,4 +33,4 @@
 
 <summary><strong>Want to learn:</strong></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,go,vue,flutter,angular,figma,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,go,vue,flutter,angular,spring,figma,electron)](https://skillicons.dev)
