@@ -26,12 +26,4 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&show_icons=true">
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,java,python)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=angular,react,spring,nodejs,express,postgres)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,gitlab,githubactions)](https://skillicons.dev)
-
-<summary><strong>Want to learn:</strong></summary>
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nodejs,express,docker,aws,git)](https://skillicons.dev)
