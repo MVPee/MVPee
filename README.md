@@ -26,4 +26,4 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MVPee&show_icons=true">
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,nextjs,express,docker,aws,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,dotnet,express,docker,aws,git)](https://skillicons.dev)
