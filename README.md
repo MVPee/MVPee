@@ -1,6 +1,9 @@
 <div align="center">
-    My name is <b>M</b>arius <b>V</b>an <b>P</b>ee.<br />
-    I'm a developer with a strong interest in backend and DevOps, and a member of 42. Comfortable working with modern stacks such as Quarkus/Spring Boot, Angular, Node.js/Express, React, and PostgreSQL. Proficient in containerized and automated environments using Docker, CI/CD pipelines, and AWS.
+Software Engineer, currently working toward a
+Master-level degree (RNCP 7) at 42 Belgium. I focus on understanding the
+problem before writing the solution, then seeing it through to production.
+I own the infrastructure, security and audits of a live product, and I build
+full-stack features for start-ups and scale-ups.
 </div>
 
 <br>
